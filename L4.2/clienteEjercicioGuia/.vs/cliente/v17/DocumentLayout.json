@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dabvid-\\Desktop\\UNI\\SO\\EjercicioGuia\\clienteEjercicioGuia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|c:\\users\\dabvid-\\desktop\\uni\\so\\ejercicioguia\\clienteejercicioguia\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|solutionrelative:windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|C:\\Users\\Dabvid-\\Desktop\\UNI\\SO\\EjercicioGuia\\clienteEjercicioGuia\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|solutionrelative:windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|C:\\Users\\Dabvid-\\Desktop\\UNI\\SO\\EjercicioGuia\\clienteEjercicioGuia\\windowsformsapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|solutionrelative:windowsformsapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dabvid-\\Desktop\\UNI\\SO\\EjercicioGuia\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dabvid-\\Desktop\\UNI\\SO\\EjercicioGuia\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\Form1.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAkwF0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:15:39.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dabvid-\\Desktop\\UNI\\SO\\EjercicioGuia\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dabvid-\\Desktop\\UNI\\SO\\EjercicioGu\u00EDa\\EjercicioGuiaSistemasOperativos\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\EjercicioGu\u00EDa\\EjercicioGuiaSistemasOperativos\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:15:36.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dabvid-\\Desktop\\UNI\\SO\\EjercicioGuia\\clienteEjercicioGuia\\WindowsFormsApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Dabvid-\\Desktop\\UNI\\SO\\EjercicioGuia\\clienteEjercicioGuia\\WindowsFormsApplication1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:15:19.201Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
