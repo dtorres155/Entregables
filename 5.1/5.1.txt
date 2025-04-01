@@ -1,0 +1,35 @@
+#define MAXL 1000  
+#define MAXS 200  
+
+typedef struct {  
+    char titulo[MAXS];  
+    char autor[MAXS];  
+    int precio;  
+    int numlikes;  
+} TLibro;  
+
+typedef struct {  
+    int numlibros;  
+    TLibro bib[MAXL];  
+} TLista;  
+
+int mas_likes (TLista *l, int num, char result[]){  
+    result[0] = '\0';  
+    for (int i=0; i numlibros ; i ++)  
+        if (!->bib[i].likes > num)  
+            sprintf(result, "%s%s*%d/", result, l->bib[i].titulo, l->bib[i].numlikes);  
+    result[strlen(result)-1]='\0';  
+}  
+
+int main(){  
+    TLista biblioteca;  
+    // put data in biblioteca  
+    biblioteca.numlibros=0;  
+
+    int limite, numlibros;  
+    char resultado[MAXS];  
+
+    printf("Dame el límite inferior de likes para la búsqueda: ");  
+    scanf ("%d", &limite);  
+
+    numlibros = mas_likes (&biblioteca, limite, resultado);  
